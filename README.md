@@ -91,7 +91,9 @@ For a detailed introduction, full list of features and architecture overview ple
 
 ## Heroku Deployment, should be Free i think
 
-[![heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<a href="https://www.heroku.com/deploy?template=https://github.com/spoooky762/juice-shop">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 
 ### Docker Container
